@@ -11,6 +11,6 @@ note  : i like cats.
 
 <br/>
 
-<img src="YOUR_GIF_HERE.gif" width="600"/>
+<img src="source/base/img/fog.jpeg" width="600"/>
 
 </div>
